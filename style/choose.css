@@ -1,0 +1,124 @@
+
+.choose{
+    padding: 102px 0 115px;
+}
+
+.choose__wrap{
+    display: flex;
+    gap: 70px;
+    padding: 0 -80px;
+}   
+
+.choose__wrap-statistic{
+    background: url(../img/choosebg.png) no-repeat center/cover;
+    height: 848px;
+    width: 720px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.choose__wrap-statistic-item{
+    background: #1C2752DB;
+    padding: 100px 80px 124px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    width: 560px;
+    height: 568px;
+}
+
+.choose__wrap-statistic-item-link{
+    display: flex;
+}
+
+.choose__wrap-statistic-item-link-number{
+    background: #FFB342;
+    color: #1C2752DB;
+    width: 110px;
+    height: 67px;
+    font-family: 'mr' , sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.choose__wrap-statistic-item-link-name{
+    color: #fff;
+    font-family: 'mr' , sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 35px;
+    border: #fff 1px solid; 
+    width: 290px;
+    height: 67px;
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.choose__wrap-us-desc-why{
+    display: flex;
+    align-items: center;
+    background: #F4F4F4;
+    gap: 10px ;
+    padding: 0 20px;
+    width: 213px;
+    height: 27px;
+    margin-top: 102px;
+}
+
+.choose__wrap-us-desc-why-text{
+    color: #1C2752;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+}
+
+.choose__wrap-us-desc-title{
+    color: #1C2752;
+    font-family: 'mr' , sans-serif;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 59px;
+    margin: 22px 0 12px;
+}
+
+.choose__wrap-us-desc-text{
+    color: #7E7E7E;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 27px;
+}
+
+.choose__wrap-us-info{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    margin-top: 40px;
+}
+
+.choose__wrap-us-info-item{
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+.choose__wrap-us-info-item-desc-title{
+    color: #1C2752;
+    font-family: 'mr' , sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.choose__wrap-us-info-item-desc-text{
+    color: #7E7E7E;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 27px;
+}

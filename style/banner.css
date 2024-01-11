@@ -1,0 +1,53 @@
+.banner{
+    background: url(../img/backg.png) no-repeat center/cover;
+    height: 813px;
+}
+
+.banner__wrap{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 30px;
+}
+
+.banner__wrap-text-item{
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+}
+
+.banner__wrap-text{
+    display: flex;
+    align-items: center;
+    background: #FFFFFF33;
+    justify-content: space-around;
+    width: 580px;
+}
+
+.banner__wrap-title{
+    color: #fff;
+    font-family: 'mr' , sans-serif;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 78px;
+    width: 712px;
+    height: 156px;
+}
+
+.banner__wrap-btn{
+    color: #1C2752;
+    background: #FFB342;
+    padding: 19px 42px;
+    width: 227px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    transition: 0.3s;
+}
+
+.banner__wrap-btn:hover{
+    color: #fff;
+    background: #1C2752;
+}

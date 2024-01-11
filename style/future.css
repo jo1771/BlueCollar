@@ -1,0 +1,101 @@
+.future{
+    padding: 140px 0;
+}
+
+.future__wrap{
+    display: flex;
+    gap: 50px;
+}
+
+.future__wrap-desc{
+    padding: 21px 0;
+}
+
+.future__wrap-desc-welcome{
+    background: #F4F4F4;
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+    gap: 10px;
+    width: 249px;
+    height: 27px;
+}
+
+.future__wrap-desc-welcome-text{
+    color: #1C2752;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+}
+
+.future__wrap-desc-title{
+    color: #1C2752;
+    font-family: 'mr' , sans-serif;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 59px;
+    margin: 22px 0 12px;
+}
+
+.future__wrap-desc-text1{
+    color: #7E7E7E;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+}
+
+.future__wrap-desc-text2{
+    color: #7E7E7E;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    margin-top: 17px;
+}
+
+.future__wrap-desc-experience{
+    display: flex;
+    gap: 40px;
+    margin-top: 25px;
+    align-items: center;
+}
+
+.future__wrap-desc-experience-years{
+    display: flex ;
+    flex-direction: column;
+    align-items: center;
+    background: #F4F4F4;
+    padding: 24px 43px 40px ;
+}
+
+.future__wrap-desc-experience-years-item{
+    color: #FFB342;
+    font-family: 'mr' , sans-serif;
+    font-size: 80px;
+    font-weight: 400;
+    line-height: 88px;
+}
+
+.future__wrap-desc-experience-years-text{
+    color: #1C2752;
+    font-family: 'mr' , sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26px;
+    width: 112px;
+    height: 52px;
+    text-align: center;
+    margin-top: 16px;
+}
+
+.future__wrap-desc-experience-text{
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+}
+
+.future__wrap-desc-experience-text{
+    color: #7E7E7E;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 27px;
+}
